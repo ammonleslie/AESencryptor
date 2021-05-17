@@ -65,7 +65,7 @@ namespace AESencryptor
                         import.Dispose();
                     }
 
-                    // update proper Bitmap
+                    // update proper Bitmap object
                     import = tempImport;
                     inputFile = openFileDialog1.FileName;
 
